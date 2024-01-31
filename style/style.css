@@ -1,0 +1,71 @@
+.pagina{
+    background-color:#777777;
+
+}
+header{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid;
+    height: 80px;
+    background-color: black;
+    
+}
+nav{
+    display: flex;
+    gap: 10px;
+    align-items: 50px;
+
+}
+a{
+    text-decoration: none;
+    margin: 10px;
+    color: aliceblue;
+}
+.b{
+    color: #777777;
+    margin-left: 70px;
+    margin-right:70px ;
+    margin-top: 70px;
+}
+.logo{
+    margin-left: 20px;
+    width: 122px;
+    
+}
+.encabezado{
+    text-align: center;
+    margin: 50px;
+    text-decoration-line: underline;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+
+}
+.p1{
+    text-align: left;
+    margin-left: 300px;
+    border: solid rgb(131, 131, 131) 5px ;
+    
+    
+
+}
+.p2{
+    text-align: center;
+    margin-left: 170px;
+    margin-right: 170px;
+    border: solid rgb(131, 131, 131) 5px ;
+}
+.p3{
+    margin-right: 300px;
+    border: solid rgb(131, 131, 131) 5px ;
+}
+div{
+    display: flex;
+    flex-direction: row;
+
+}
+.contactanos{
+    margin-left: 50px ;
+
+}
